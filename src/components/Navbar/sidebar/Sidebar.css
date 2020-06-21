@@ -1,0 +1,12 @@
+.firstFriend{
+    flex-direction: row;
+    flex: 1;
+}
+.secondFriend{
+    flex-direction: row;
+    flex: 1;
+}
+.thirdFriend{
+    flex-direction: row;
+    flex: 1;
+}
